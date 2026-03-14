@@ -26,6 +26,7 @@ PALABRAS_VALIDAS = [
     "LAVAS",
     "ZONAS",
     "MONTE",
+    "TALUD"
 ]
 
 MAX_INTENTOS = 6
