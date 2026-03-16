@@ -11,22 +11,29 @@ st.set_page_config(
 )
 
 PALABRAS_VALIDAS = [
-    "SISMO",
-    "FALLA",
-    "PLACA",
-    "ONDAS",
-    "MAGMA",
-    "ROCAS",
-    "SUELO",
-    "FOSAS",
-    "CERRO",
-    "VALLE",
-    "ARENA",
-    "COSTA",
-    "LAVAS",
-    "ZONAS",
-    "MONTE",
-    "TALUD"
+"RUIDO",
+"SONAR",
+"TONOS",
+"GRAVE",
+"AGUDO",
+"SISMO",
+"TEMOR",
+"FALLA",
+"PLACA",
+"RAYOS",
+"LUCES",
+"LENTE",
+"FOCOS",
+"RADIO",
+"LASER",
+"MEDIA",
+"MEDIO",
+"AUDIO",
+"ARENA",
+"ROCAS",
+"SUELO",
+"ONDAS"
+
 ]
 
 MAX_INTENTOS = 6
