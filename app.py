@@ -32,8 +32,8 @@ PALABRAS_VALIDAS = [
 "ARENA",
 "ROCAS",
 "SUELO",
-"ONDAS"
-
+"ONDAS",
+"CALOR"
 ]
 
 MAX_INTENTOS = 6
@@ -155,9 +155,9 @@ st.markdown(
 # =========================
 # INTERFAZ
 # =========================
-st.markdown('<div class="titulo">🌍 Wordle: Sismología 1° Medio</div>', unsafe_allow_html=True)
+st.markdown('<div class="titulo">🌍 Wordle: Contenidos 1° Medio</div>', unsafe_allow_html=True)
 st.markdown(
-    '<div class="subtitulo">Adivina una palabra de 5 letras relacionada con sismología</div>',
+    '<div class="subtitulo">Adivina una palabra de 5 letras relacionada con Física </div>',
     unsafe_allow_html=True
 )
 
