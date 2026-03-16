@@ -5,7 +5,7 @@ import streamlit as st
 # CONFIGURACIÓN GENERAL
 # =========================
 st.set_page_config(
-    page_title="Wordle Sismología",
+    page_title="Wordle Contenidos Primero Medio",
     page_icon="🟩",
     layout="centered"
 )
